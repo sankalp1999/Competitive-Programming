@@ -1,0 +1,20 @@
+Dynamic programming 
+ a) kadane algorithm
+
+
+21st sept 2019
+After completion of this : algo course to be continued soon,
+Complete data structures course this semester itself and write all the stuff.
+
+Future  : After completing algorithms and maybe ds course on coursera
+AVL tree and B-trees, learn by independently. No course needed.
+Consider unordered data structures course and C++ for c programmers part a and part b in future.
+
+18th october 2019
+IMPORTANT : 
+	 I will become a top dsa guy. For that, I will complete or atleast do the first five courses of the 
+	Data Structures and Algorithms specialization.
+Make Sure that you spend proper time with the algorithms. Learn them by understanding, implementing and 
+then try to remember. Try to recall in mind. Think about them. Practice questions related to the topics learnt.
+Spend time. Mind-map and think about modifying. Before going onto other resources, spend time and try to think 
+about what they have taught.
