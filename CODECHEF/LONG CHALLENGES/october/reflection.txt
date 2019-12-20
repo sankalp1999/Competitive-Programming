@@ -1,0 +1,7 @@
+1. Do not get stuck if logic found once
+2. Try to brute force/ guess the solution first and then proceed towards efficient solution.
+
+For array modification, I brute forced,
+    found a pattern.
+    Made a sequence  which was repeating after 3*n and then shifted using a while loop
+    Lesson : when it can be done with a few iterations, always prefer a loop instead of a mod when there is uneven terrain.
