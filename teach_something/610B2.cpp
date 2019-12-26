@@ -1,3 +1,6 @@
+// this is the editorial solution to 610B2.cpp
+
+
 #include <bits/stdc++.h>
 
 using namespace std;
