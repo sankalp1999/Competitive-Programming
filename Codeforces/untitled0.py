@@ -1,25 +1,37 @@
-# also known as top-down dp
-dict1 = dict()
-def fib(n):
-    
-    if n == 1 or n == 0:
-        return 1
-    elif n in dict1:
-        return dict1[n]
-    else:
-        sum1 = fib(n-1) + fib(n-2)
-        
-        if sum1 not in dict1:
-            dict1[n] = sum1
-        return sum1
-#26863810024485359386146727202142923967616609318986952340123175997617981700247881689338369654483356564191827856161443356312976673642210350324634850410377680367334151172899169723197082763985615764450078474174626
 n = int(input())
-a = 0
-b = 1
-c = 1
-for i in range(n-1):
-    c = a + b
-    a = b
-    b = c 
+while( n != 0):
+    
+    l = [int(i) for i in input().split()]
+    s = l[0]
+    l.remove(l[0])
+    s = int(s)
+    if (l[2] < l[0]):
+        l.reverse()
+#    print(l)1
+    if(s >= l[0]+l[1] +l[2] or s > 5):
+        print(1)
+        n -= 1
+        continue
+    
+    c  = 0
+    i = 0
+    while(1):
+        if(i <= 2):
+            if(i + 1 <= 2 and s >= l[i] + l[i+1]):
+                l[i] = 0
+                l[i+1] = 0
+                c += 1
+                i += 2
+            elif s >= l[i]:
+                l[i]= 0 
+                i += 1 
+                c += 1
+            elif l[0] == 0 and l[1] == 0 and l[2] == 0:
+                break
+                
+        else:
+            break
     print(c)
-print(c)
+    
+    
+    n -= 1
