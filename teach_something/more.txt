@@ -1,0 +1,35 @@
+// Example program
+#include <iostream>
+#include <string>
+using namespace std;
+int count = 0;
+
+
+int main()
+{
+    int n, m;
+    cin >> n >> m;
+    int n2 = n;
+    int count = 0;
+	while(m > n)
+	{
+		if(m%2 == 0)
+		{
+			m = m/2;
+			count++;
+		}
+		else
+		{
+			m += 1;
+			count++;
+		}
+		if(m < n)break;
+		
+	}
+	cout << count  + abs(m-n) << endl;
+
+    
+    
+   
+    
+}
