@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+// Alternatively, if one sees carefully,
+// the answer is (k/2) + 1
 int main() {
 	int t;
 	cin >> t;
