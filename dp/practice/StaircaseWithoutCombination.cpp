@@ -3,6 +3,12 @@ using namespace std;
 
 // Alternatively, if one sees carefully,
 // the answer is (k/2) + 1
+// e.g:- for n=4,(n divide two)=(4/2)=2;
+// so picking one 2 out of total 2s and rest 1s form one way i.e.{2,1,1}..
+// picking two 2s out of total 2s and rest 1s form one way i.e.{2,2}..
+// that's all...so number of ways=2.
+// 2. add( one):-now not picking 2s at all so number of way=1.
+
 int main() {
 	int t;
 	cin >> t;
