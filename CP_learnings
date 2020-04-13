@@ -1,0 +1,9 @@
+
+
+
+Dsa learning series 1 - Siddhant Bansal
+
+1. If you initialize an array globally, it initializes automatically to zero.
+
+2. memset(name_of_container, value, sizeof(container))
+It works only with 0 and -1.

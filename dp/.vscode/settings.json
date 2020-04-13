@@ -1,3 +1,6 @@
 {
-    "competitive-programming-helper.firstTime": false
+    "competitive-programming-helper.firstTime": false,
+    "files.associations": {
+        "memory": "cpp"
+    }
 }
