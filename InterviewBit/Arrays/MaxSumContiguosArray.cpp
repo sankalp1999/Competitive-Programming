@@ -25,3 +25,17 @@ int Solution::maxSubArray(const vector<int> &a) {
     }
     return prefix;
 }
+
+// Alternative solution where space complexity is O(n)
+int Solution::maxSubArray(const vector<int> &a)
+{
+    int prefix = a[0];
+    int sum[a.size()] = {0};
+    sum[0] = a[0];
+
+    for (int i = 1; i < a.size(); i++)
+    {
+        sum[i] = max(a[i], sum[i - 1] + a[i]);
+    }
+    return *max_element(sum);
+}
