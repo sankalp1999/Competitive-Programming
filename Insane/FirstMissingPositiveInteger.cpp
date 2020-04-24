@@ -9,7 +9,7 @@ public:
             if(nums[i] == 1)one = 0;
             if(nums[i] <= 0 || nums[i] > n)
             {
-                nums[i]=n+1;
+                nums[i]=n+1; // if negative or more than n, mark n+1
             }
         }
         if(one == 1) // one not present
@@ -18,7 +18,7 @@ public:
         for(int i = 0 ; i < n; i++)
         {
             
-            int index = abs(nums[i]);
+            int index = abs(nums[i]); // take abs to avoid double negation which will make the entry positive
             if(index > n)continue;
             if(index < n)
             {
