@@ -1,4 +1,4 @@
-# problem-solving
+# Problem-solving
 This repository contains solutions of some of the problems I have solved on different platforms across the Internet.
 A lot of solutions are those which I would like to review or some which are really good problems.
 
@@ -13,6 +13,7 @@ All the good YouTube channels for Competitive Programming(not coding interview) 
 
 
 **CP mostly**
+The handles are the creator's Codeforces user handles.
 
 [Errichto's channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) by [user:Errichto,2020-04-22]. He has one more channel on which he makes longer videos.
 
