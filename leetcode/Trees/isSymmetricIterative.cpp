@@ -22,9 +22,9 @@ public:
         // similarly, we will add leftsub.right and rightsub.left
        while(!q.empty())
        {
-            TreeNode* t1 = q.top();
+            TreeNode* t1 = q.front();
             q.pop();
-            TreeNode* t2 = q.top();
+            TreeNode* t2 = q.front();
             q.pop();
            if(t1 == NULL && t2 == NULL )continue;
            if(t1 == NULL || t2 == NULL)return false; //symmetric property is broken
@@ -35,4 +35,5 @@ public:
            q.push(t2->left);
        }
         return true;
+    }
 };
