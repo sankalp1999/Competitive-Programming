@@ -7,5 +7,7 @@ The main idea in linkedlists questions
 5. Whether one needs a temporary head or not
 
 ### Good problems
+- Reverse nodes in k groups
+- Floyd Algorithm
 - Merge Two Sorted Lists
 - Swap Adjacent Node Pairs (temporary head and saving links)
