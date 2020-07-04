@@ -1,6 +1,13 @@
 
 # Trees
 
+Take a paper. Figure out how to traverse
+- Do I need to touch the leaf nodes?
+- Do i need to compare two nodes? Is a helper function required?
+- Most of the times, inorder traversal helps.
+- Want to process left,right children data from bottom first --> postorder traversal
+- Views --> level order
+
 ## Common Patterns
 
 ### Clever use of stack and queues
