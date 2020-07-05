@@ -17,6 +17,7 @@ Take a paper. Figure out how to traverse
 ### Construction based questions
 - Do some easy math to decide the start of preorder, postorder indices etc.
 - For BST, utlize it's properties mostly.
+- ![images/construction.png](images/construction.png)
 
 
 ### Get some information from the children
