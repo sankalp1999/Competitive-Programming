@@ -14,6 +14,11 @@ Take a paper. Figure out how to traverse
 - Exploit stack's Last in first out feature e.g in spiral order traversal
 - Queue itself is used for bfs
 
+### Construction based questions
+- Do some easy math to decide the start of preorder, postorder indices etc.
+- For BST, utlize it's properties mostly.
+
+
 ### Get some information from the children
 - In such questions like maxdepth, tilt of a binary tree, minimum depth, we are supposed to get some information from the children.
 - Important task to decide how to propagate information upwards. e.g tilt of a binary tree.
