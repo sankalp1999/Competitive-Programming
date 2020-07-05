@@ -63,6 +63,9 @@ The handles are the creator's Codeforces user handles.
 
 **Coding Interviews**
 
+### Hindi
+1. Aditya Verma is the best
+
 Most of the time, searching the correct topic gives the best results. Learn to use the YouTube filter.
 
 1. Kevin Naughton Jr.
