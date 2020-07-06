@@ -22,14 +22,14 @@ public:
         // Node has to take decision to pass the best value
         // The subtree path sums might be less than node value 
         // because of negative values
+        
+        // Pass the best value to the caller
         int temp = max(root->val, max(left, right) + root->val);
         
         int ans = max(temp, left + right + root->val);
         res = max(ans, res);
         return temp;
-        
     }
-    
     
     int maxPathSum(TreeNode* root) {
         int res = INT_MIN;
