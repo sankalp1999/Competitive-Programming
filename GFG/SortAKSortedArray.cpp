@@ -5,7 +5,7 @@ using namespace std;
 
 
 /*
-The elements are max to max k away to the right in the array.
+The elements are max to max k away to the right/left in the array.
 So, we need to maintain a heap of size k. 
 That way, if we keep touching size k heap,
 then we will always have the min element at the top.
@@ -13,9 +13,6 @@ then we will always have the min element at the top.
 K log N solution.
 
 */
-
-
-
 
 int main() {
     int t;
