@@ -10,7 +10,9 @@ So, we need to maintain a heap of size k.
 That way, if we keep touching size k heap,
 then we will always have the min element at the top.
 
-K log N solution.
+N log k solution.
+We are traversing over n elements and doing N insertions
+so N log k.
 
 */
 
