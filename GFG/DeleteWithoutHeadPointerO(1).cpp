@@ -7,5 +7,8 @@ void deleteNode(Node *node)
        node = NULL;
    }
    node->data = node->next->data;
+   Node* temp = node->next;
    node->next = node->next->next;
+   temp  = NULL;
+   delete(temp);
 }
