@@ -1,3 +1,16 @@
+
+
+/*
+We maintain a running_sum with indices.
+If the running_sum becomes equal to an already occuring running run or it becomes zero, then
+we have found a subarray.
+Compare the left and right bounds carefully and initialise max_diff = -1 since 
+array can contain only a single zero and no subarray.
+
+*/
+
+
+
 vector<int> Solution::lszero(vector<int> &A) {
     
     unordered_map<int,int> m;
