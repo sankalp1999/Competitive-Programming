@@ -20,6 +20,12 @@ Unique pointer
 // Operations : Release, swap , reset, get, get_deleter
 
 */
+
+/*
+
+Shared pointer
+It maintains a reference counting block
+
 #include <iostream>
 #include <memory>
 
