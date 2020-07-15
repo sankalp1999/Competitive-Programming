@@ -5,6 +5,22 @@ ones with the higher frequency first, we use a max heap.
 Make sure that the frequency is the first quantity 
 in the pair.
 */
+
+
+/*
+The first step is to build a hash map element -> its frequency. In Java, we use the data structure HashMap. Python provides dictionary subclass Counter to initialize the hash map we need directly from the input array.
+This step takes \mathcal{O}(N)O(N) time where N is a number of elements in the list.
+
+The second step is to build a heap of size k using N elements. To add the first k elements takes a linear time 
+\mathcal{O}(k)O(k) in the average case, and \mathcal{O}(\log 1 + \log 2 + ... + \log k) = \mathcal{O}(log k!) = \mathcal{O}
+(k \log k)O(log1+log2+...+logk)=O(logk!)=O(klogk) in the worst case. It's equivalent to heapify implementation in Python. 
+After the first k elements we start to push and pop at each step, N - k steps in total. The time complexity of heap push/pop is \mathcal{O}(\log k)O(logk) and 
+we do it N - k times that means \mathcal{O}((N - k)\log k)O((N−k)logk) time complexity. 
+Adding both parts up, we get \mathcal{O}(N \log k)O(Nlogk) time complexity for the second step.
+
+*/
+
+
 class Solution {
 public:
     typedef pair<int,int> pii;
