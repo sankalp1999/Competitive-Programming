@@ -12,11 +12,11 @@ string Solution::addBinary(string A, string B) {
     int carry = 0;
     for(int i = A.size() - 1; i >= 0; i--)
     {
-        int temp = (A[i] - '0') + (B[i] - '0') + carry;
-        carry = temp/2;
-        res += to_string(temp%2);
+        int temp = (A[i] - '0') + (B[i] - '0') + carry; // add the numbers
+        carry = temp/2; // carry is 1
+        res += to_string(temp%2); // if 0 or 2, we generate 0;
     }
-    if(carry) res += '1';
+    if(carry) res += '1'; // final check
     reverse(res.begin(), res.end());
     return res;
 }
