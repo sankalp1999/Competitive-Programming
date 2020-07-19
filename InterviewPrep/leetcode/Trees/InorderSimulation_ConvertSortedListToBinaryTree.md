@@ -1,19 +1,24 @@
-Let's quickly look at a pseudo-code to make the algorithm simple to understand.
+Since, in the inorder traversal simulation, we make the root when left == right.
+Thus, its the middle node or root of that tree.
 
-➔ function formBst(start, end)
+Let's quickly look at a pseudo-code to make the algorithm simple to understand. 
 
-➔      mid = (start + end) / 2
+'''
 
-➔      formBst(start, mid - 1)
+    - function formBst(start, end)
 
-➔
-➔      TreeNode(head.val)
+    -      mid = (start + end) / 2
 
-➔      head = head.next
+    -      formBst(start, mid - 1)
 
-➔      formBst(mid + 1, end)
+    -      TreeNode(head.val)
 
-➔
+    -      head = head.next
+
+    -      formBst(mid + 1, end)
+
+'''
+
 - Iterate over the linked list to find out it's length. We will make use of two different pointer variables here to mark the beginning and the end of the list. Let's call them start and end with their initial values being 0 and length - 1 respectively.
 
 - Remember, we have to simulate the inorder traversal here. We can find out the middle element by using (start + end) / 2. Note that we don't really find out the middle node of the linked list. We just have a variable telling us the index of the middle element. We simply need this to make recursive calls on the two halves.
