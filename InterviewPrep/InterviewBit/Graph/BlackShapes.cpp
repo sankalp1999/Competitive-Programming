@@ -1,8 +1,11 @@
 /*
 This problem reduces to counting connected components in a grid graph.
+Run dfs till everything visitable thing is visited.
+
+So, if we run dfs from 'X', then it will reach all the connected X's.
+Then, if some other component is still there, we will find that and run dfs on that.
+The answer is the number of times we run the dfs.
 */
-
-
 
 bool isValid(int i, int j, int n, int m, vector<string>& A)
 {
@@ -46,6 +49,4 @@ int Solution::black(vector<string> &A) {
         }
     }
     return cc;
-    
-    
 }
