@@ -3,7 +3,7 @@ Thus, its the middle node or root of that tree.
 
 Let's quickly look at a pseudo-code to make the algorithm simple to understand. 
 
-'''
+
 
     - function formBst(start, end)
 
@@ -17,7 +17,7 @@ Let's quickly look at a pseudo-code to make the algorithm simple to understand.
 
     -      formBst(mid + 1, end)
 
-'''
+
 
 - Iterate over the linked list to find out it's length. We will make use of two different pointer variables here to mark the beginning and the end of the list. Let's call them start and end with their initial values being 0 and length - 1 respectively.
 
@@ -29,42 +29,41 @@ Let's quickly look at a pseudo-code to make the algorithm simple to understand.
 
 - We recurse on the right hand side using mid + 1, end as the starting and ending points.
 
-'''
-
-    class Solution {
-
-    public:
 
 
-    TreeNode* helper(ListNode*& head, int start, int end)
-    {
-      
-      if(start > end)
-       
-       return NULL;
-       
-       int mid = (start + end)/2;
-       
-       //We make the tree in an inorder traversal way
-       
-       TreeNode* left = helper(head, start , mid - 1);
-        
-        TreeNode* root = new TreeNode(head->val);
-        
-        head = head->next; // This is happening globally
-        // Since, we made the first node, time to make next
-        
-        //Time to make the right subtree
-        TreeNode* right = helper(head, mid + 1, end);
-        
-        root->left = left;
-        
-        root->right = right;
-        return root;
-    }
+      class Solution {
+
+      public:
+
+
+      TreeNode* helper(ListNode*& head, int start, int end)
+      {
+           if(start > end)
+
+           return NULL;
+
+           int mid = (start + end)/2;
+
+           //We make the tree in an inorder traversal way
+
+           TreeNode* left = helper(head, start , mid - 1);
+
+           TreeNode* root = new TreeNode(head->val);
+
+           head = head->next; // This is happening globally
+           // Since, we made the first node, time to make next
+
+           //Time to make the right subtree
+           TreeNode* right = helper(head, mid + 1, end);
+
+           root->left = left;
+
+           root->right = right;
+           return root;
+      }
     
     
-    TreeNode* sortedListToBST(ListNode* head) {
+      TreeNode* sortedListToBST(ListNode* head) {
         int len = 0;
         ListNode* curr = head;
         while(curr)
@@ -74,8 +73,8 @@ Let's quickly look at a pseudo-code to make the algorithm simple to understand.
         }
         return helper(head, 0, len - 1);
         
-    }
-    };
+      }
+      };
 
 
-'''
+
