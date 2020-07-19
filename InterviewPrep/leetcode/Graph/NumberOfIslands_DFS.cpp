@@ -7,7 +7,7 @@ public:
         if (i < 0 || i == m || j < 0 || j == n || grid[i][j] != '1') {
             return;
         }
-        grid[i][j] = '#';
+        grid[i][j] = '#'; // To mark that we have visited already or erasing that number to not repeat search
         dfs(i-1, j, grid);
         dfs(i+1, j, grid);
         dfs(i, j-1, grid);
