@@ -49,10 +49,11 @@ public:
                 {
                     s.insert(child->val);
                     Node* temp = new Node(child->val);
-                    m[child] = temp;
+                    m[child] = temp; // Make the new mappings
                     q.push(child);
                 }
-                m[top]->neighbors.push_back(m[child]);
+                m[top]->neighbors.push_back(m[child]); // Build the new one since all it's neighbors have been made
+                // So, it is possible to build the links.
             }
         }
         
