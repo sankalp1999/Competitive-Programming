@@ -16,15 +16,24 @@ The invariance that we maintain in this algorithm is that whenever we are done b
 We recurse on the right hand side using mid + 1, end as the starting and ending points.
 
 '''
-class Solution {
-public:
+
+    class Solution {
+
+    public:
+
+
     TreeNode* helper(ListNode*& head, int start, int end)
     {
-        if(start > end)
-            return NULL;
-        int mid = (start + end)/2;
-        //We make the tree in an inorder traversal way
-        TreeNode* left = helper(head, start , mid - 1);
+      
+      if(start > end)
+       
+       return NULL;
+       
+       int mid = (start + end)/2;
+       
+       //We make the tree in an inorder traversal way
+       
+       TreeNode* left = helper(head, start , mid - 1);
         
         TreeNode* root = new TreeNode(head->val);
         
@@ -52,7 +61,7 @@ public:
         return helper(head, 0, len - 1);
         
     }
-};
+    };
 
 
 '''
