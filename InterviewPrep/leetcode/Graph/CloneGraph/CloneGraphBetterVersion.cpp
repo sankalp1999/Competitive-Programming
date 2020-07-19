@@ -1,26 +1,61 @@
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    vector<Node*> neighbors;
+    
+    Node() {
+        val = 0;
+        neighbors = vector<Node*>();
+    }
+    
+    Node(int _val) {
+        val = _val;
+        neighbors = vector<Node*>();
+    }
+    
+    Node(int _val, vector<Node*> _neighbors) {
+        val = _val;
+        neighbors = _neighbors;
+    }
+};
+*/
+
 class Solution {
 public:
     Node* cloneGraph(Node* node) {
-        if (!node) {
-            return NULL;
+        unordered_map<Node*, Node*> m;
+        unordered_set<int> s; // This ensures safety if graph contains cycles.
+        vector<Node*> v;
+        if(node == NULL)return NULL;
+        Node* root = new Node(node->val);
+        if(node->neighbors.empty() )
+        {
+            return root;
         }
-        Node* copy = new Node(node -> val, {});
-        copies[node] = copy;
-        queue<Node*> todo;
-        todo.push(node);
-        while (!todo.empty()) {
-            Node* cur = todo.front();
-            todo.pop();
-            for (Node* neighbor : cur -> neighbors) {
-                if (copies.find(neighbor) == copies.end()) {
-                    copies[neighbor] = new Node(neighbor -> val, {});
-                    todo.push(neighbor);
+        queue<Node*> q;
+        Node* temp = node;
+        m[node] = new Node(node->val);
+        q.push(temp);
+        s.insert(temp->val);
+        while(!q.empty())
+        {
+            auto top = q.front();
+            q.pop();
+            for(auto child : top->neighbors)
+            {
+                if(s.find(child->val)==s.end())
+                {
+                    s.insert(child->val);
+                    Node* temp = new Node(child->val);
+                    m[child] = temp;
+                    q.push(child);
                 }
-                copies[cur] -> neighbors.push_back(copies[neighbor]);
+                m[top]->neighbors.push_back(m[child]);
             }
         }
-        return copy;
-    }
-private:
-    unordered_map<Node*, Node*> copies;
+        
+        return m[node];
+        }
 };
