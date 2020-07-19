@@ -1,3 +1,7 @@
+/*
+Edit: I later realised that only one BFS/DFS is enough for this problem. 
+This made me laugh but it's fine. I had the main idea in my sleeve.
+*/
 
 /*
 I was able to do this question completely on my own.
