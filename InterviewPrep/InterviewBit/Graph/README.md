@@ -11,8 +11,8 @@
 - Commutable Islands used Kahn's algo which is basically queue/priority queue(if lexicographical order required) and maintaining indegree count.
   Topological Sort can be used to detect cycles as well.
   
-## Diameter
-- Find farthest node from any node. Then, from that node, find the other farthest node. That is the longest path. Check and understand the proof.
+
+- **Diameter** Find farthest node from any node. Then, from that node, find the other farthest node. That is the longest path. Check and understand the proof.
 - Word Ladder makes uses of set of strings. Since, one move is possible only when one character difference is there, we can pick a character
   of a word and change it to see if it is in the set. This helps in time complexity.
 - Sometimes, instead of using visited array, just modifying the input is easier.
