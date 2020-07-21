@@ -35,10 +35,11 @@ UndirectedGraphNode *Solution::cloneGraph(UndirectedGraphNode *node) {
             if(m.find(child) == m.end()) // Acts as visited array to avoid pushing into queue again
             {
                 q.push(child);
-                m[child] = temp;
+                m[child] = temp; // Do the cloning.
             }
             
-           m[top]->neighbors.push_back(m[child]);
+           m[top]->neighbors.push_back(m[child]); // Make the edge connection for the clone. It's just adding that neighbor.
+            // The hashtable allows constant time access here.
         }
     }
     return m[node];
