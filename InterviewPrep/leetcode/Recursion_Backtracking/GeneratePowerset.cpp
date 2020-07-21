@@ -26,15 +26,12 @@ public:
         v.pop_back();  // don't select the element and generate subset
         subset(v, n + 1, arr);
     }
-    
-    
-    
-    vector<vector<int>> subsets(vector<int>& nums) {
-        
-        vector<int> v;
-        numsize = nums.size();
-        subset(v, 0, nums);
-        return p;
+
+vector<vector<int>> subsets(vector<int>& nums) {
+    vector<int> v;
+    numsize = nums.size();
+    subset(v, 0, nums);
+    return p;
         
     }
 };
