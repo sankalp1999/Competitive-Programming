@@ -1,11 +1,5 @@
-
-
-
-
-
-
-/* MY solution 
-
+/*  
+Explanation
 Idea is to store the frequency of occurence of characters.
 If A[i] is not equal to q.front(), then add that in the string
 But before that we need to ensure that 
@@ -20,40 +14,38 @@ Problem is easy otherwise.
 
 */
 
-
-
-
 string Solution::solve(string A) {
     
     queue<char> q;
     vector<int> repeated(26, 0);
+    
     string B = "";
     B += A[0];
+    
     q.push(A[0]);
     repeated[A[0] - 'a']++;
+    
     for(int i = 1 ; i < A.size(); ++i)
     {
         q.push(A[i]);
         repeated[A[i]-'a']++;
-        
-        while(!q.empty() && repeated[q.front()-'a']>1){
-        q.pop(); 
+
+        while(!q.empty() && repeated[q.front()-'a']>1)
+        {
+            q.pop(); 
         }
-      
-       if(q.empty())
-       {
-           B += "#";
-       }
-       else
-       {
-           B += q.front();
-       }
-            
+
+        if(q.empty())
+        {
+            B += "#";
+        }
+        else
+        {
+            B += q.front();
+        }
     }
     return B;
 }
-
-
 
 /* Editorial solution is much better than mine */
 string Solution::solve(string A) {
@@ -70,6 +62,3 @@ string Solution::solve(string A) {
     }
     return ans;
 }
-
-
-
