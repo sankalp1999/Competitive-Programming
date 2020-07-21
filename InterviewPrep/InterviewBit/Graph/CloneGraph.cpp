@@ -42,7 +42,4 @@ UndirectedGraphNode *Solution::cloneGraph(UndirectedGraphNode *node) {
         }
     }
     return m[node];
-    
-    
-
 }
