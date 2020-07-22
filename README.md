@@ -22,24 +22,24 @@ All the good YouTube channels for Competitive Programming(not coding interview) 
 **CP mostly**
 The handles are the creator's Codeforces user handles.
 
-[Errichto's channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) by [user:Errichto,2020-04-22]. He has one more channel on which he makes longer videos.
+[Errichto's channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) by [user:Errichto,2020-04-22]. Tutorials, lectures, advice and contest streams.
+One of the best currently.
 
-[Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ) by [user:kazama460,2020-04-22]
+[Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ) by [user:kazama460,2020-04-22] Tutorials for a lot of topics in CP. One of the best channels.
 
-[William Lin's Channel](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q) by [user:tmwilliamlin168,2020-04-22]
+[William Lin's Channel](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q) by [user:tmwilliamlin168,2020-04-22] He makes mostly guidance and him solving contest problems. He hasn't made any tutorial yet. Duh.
 
-[Algorithms Live] (https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w) 
-(Not for beginners though)
+[Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w) This channel is not for beginners.
 
 [TakeUForward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig) by [user:striver_79,2020-04-22] &mdash; new channel
 
-[Vplanet](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg) by [user:Updown,2020-04-22] 
+[Vplanet](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg) by [user:Updown,2020-04-22] Not active. Has good videos on DP which are on my to-do list.
 
-[AlgoPedia](https://www.youtube.com/channel/UC4LyqX6MVkg7NU2qBbvrkSg) by [user:RomeoFantastik,2020-04-22]
+[AlgoPedia](https://www.youtube.com/channel/UC4LyqX6MVkg7NU2qBbvrkSg) by [user:RomeoFantastik,2020-04-22] 
 
-[Code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ) by [user:code_report,2020-04-22]
+[Code_report](https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ) by [user:code_report,2020-04-22] 
 
-[Jalgs](https://www.youtube.com/channel/UCIyYdngljsLPMe2HiJ-icPw) (Some intermediate-advanced topics)
+[Jalgs](https://www.youtube.com/channel/UCIyYdngljsLPMe2HiJ-icPw) Some intermediate to advanced concepts.
 
 [Tozan Southerpacks](https://www.youtube.com/channel/UCwsapfci2p1oDVO4Q2sJOQw) by 
  by [user:smeke,2020-04-22]
