@@ -4,8 +4,8 @@ This repository contains solutions of some of the problems I have solved on diff
 A lot of solutions are those which I would like to review or some which are really good problems.
 
 **Currently, I am in the process of updating this repository and making major changes.**
- - [  ] update README
- - [  ] Use this as primary repo to commit solutions.
+ - [ ] update README
+ - [ ] Use this as primary repo to commit solutions.
 
 ## What CP is all about
 Check out this brilliant [answer](https://qr.ae/TjA0uu) by Manashi Sarkar if you want to know about Competitive Programming
