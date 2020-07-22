@@ -4,7 +4,8 @@ This repository contains solutions of some of the problems I have solved on diff
 Codechef, Codeforces. 
 
 **Currently, I am in the process of updating this repository and making major changes.**
- - [ ] Become active in sometime in solving CP style problems.
+ - [ ] Become active in sometime in solving CP style problems. 
+ - [ ] Participate more in AtCoder contests. Check out the new tools about CF.
  - [ ] Add your thoughts and reflections on CP. Write about the ideas shared in the 3rd sem Data Structures repository.
  - [ ] Update README
  - [ ] Use this as primary repo to commit solutions.
