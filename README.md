@@ -6,7 +6,7 @@ Codechef, Codeforces.
 **Currently, I am in the process of updating this repository and making major changes.**
  - [ ] update README
  - [ ] Use this as primary repo to commit solutions.
- - [ ] Add standard implementations from the other repo here. Need to filter out.
+ - [ ] Add standard implementations from the other repo here. Filter out them from codes in this repository also.
  - [ ] Add some favourite resources.
 
 ## What CP is all about
