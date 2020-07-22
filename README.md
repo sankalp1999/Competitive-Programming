@@ -1,6 +1,11 @@
-# Problem-solving
+# Problem-solving and Competitive Programming
+
 This repository contains solutions of some of the problems I have solved on different platforms across the Internet.
 A lot of solutions are those which I would like to review or some which are really good problems.
+
+**Currently, I am in the process of updating this repository and making major changes.**
+- [  ] update README
+- [  ] Use this as primary repo to commit solutions.
 
 ## What CP is all about
 Check out this brilliant [answer](https://qr.ae/TjA0uu) by Manashi Sarkar if you want to know about Competitive Programming
@@ -60,13 +65,14 @@ The handles are the creator's Codeforces user handles.
 
 [Fluent Algorithms](https://www.youtube.com/channel/UCtY9l-xhmxfp5nMF9DYglDQ)
 
-
 **Coding Interviews**
+You are better off by searching the key terms or the question name with the platform name. There are many good channels
+and new channels have been coming up especially in this lockdown period.
 
 ### Hindi
 1. Aditya Verma is the best
 
-Most of the time, searching the correct topic gives the best results. Learn to use the YouTube filter.
+### English
 
 1. Kevin Naughton Jr.
 
