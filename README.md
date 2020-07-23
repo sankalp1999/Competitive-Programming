@@ -4,18 +4,22 @@ This repository contains solutions of some of the problems I have solved on diff
 Codechef, Codeforces. 
 
 **Currently, I am in the process of updating this repository and making major changes.**
+ 
+ 
+ - [ ] Write better code for future problems, try to analyse(like I do for LC/IB). Maintain copies of code with explanation and proper names like I did for the IP repo. Maintain explanations for future reference. Helps for revision and someone else might refer. Think for longer, take inspiration from MathProgrammer, Mandilya 
+ - [ ] Write standard implementations of slighly advanced stuff and maintain copy here. 
  - [ ] Become active in sometime in solving CP style problems. 
+ - [ ] Split out Codeforces, Codechef, Atcoder(less) and HackerEarth(less). 
  - [ ] Participate more in AtCoder contests. Check out the new tools about CF.
  - [ ] Add your thoughts and reflections on CP. Write about the ideas shared in the 3rd sem Data Structures repository.
  - [ ] Update README
  - [ ] Use this as primary repo to commit solutions.
  - [ ] Add standard implementations from the other repo here. Filter out them from codes in this repository also.
  - [ ] Add some favourite resources.
- 
 
 ## What CP is all about
 Check out this brilliant [answer](https://qr.ae/TjA0uu) by Manashi Sarkar if you want to know about Competitive Programming
-
+ 
 
 ## Top Youtube Channels for Competitive Programming and Coding Interview preparation
 
