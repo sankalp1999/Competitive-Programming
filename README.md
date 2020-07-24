@@ -3,8 +3,8 @@
 This repository contains solutions of some of the problems I have solved on different platforms across the web majorly
 Codechef, Codeforces. 
 
-**Currently, I am in the process of updating this repository and making major changes.**
- 
+**Currently, I am in the process of updating this repository and making major changes.**. **Check out my 3rd sem DS [repository](https://github.com/sankalp1999/3rdSem-Data-Structures-Lab#some-thoughts---cp-related) README to get
+some information about approaching CP**
  
  - [ ] Write better code for future problems, try to analyse(like I do for LC/IB). Maintain copies of code with explanation and proper names like I did for the IP repo. Maintain explanations for future reference. Helps for revision and someone else might refer. Think for longer, take inspiration from MathProgrammer, Mandilya 
  - [ ] Write standard implementations of slighly advanced stuff and maintain copy here. 
