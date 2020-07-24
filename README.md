@@ -7,6 +7,7 @@ Codechef, Codeforces.
 some information about approaching CP**
  
  - [ ] Write better code for future problems, try to analyse(like I do for LC/IB). Maintain copies of code with explanation and proper names like I did for the IP repo. Maintain explanations for future reference. Helps for revision and someone else might refer. Think for longer, take inspiration from MathProgrammer, Mandilya 
+ - [ ] Check out TuDss github and Ashish Gup
  - [ ] Write standard implementations of slighly advanced stuff and maintain copy here. 
  - [ ] Scrape HackerRank solutions and learn to scrape other solutions from the scripts available on github.
  - [ ] Become active in sometime in solving CP style problems. 
