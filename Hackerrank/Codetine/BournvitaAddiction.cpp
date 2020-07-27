@@ -45,8 +45,8 @@ int main() {
             myset.insert(top + '8');
         }
     }
-    sort(v.begin(), v.end());
-    cout << distance(v.begin(), lower_bound(v.begin(), v.end(), n)) + 1 << endl; 
+    sort(v.begin(), v.end()); // sort to get things in order
+    cout << distance(v.begin(), lower_bound(v.begin(), v.end(), n)) + 1 << endl;  // Binary search to find that element 
     
     return 0;
 }
