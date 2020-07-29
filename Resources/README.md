@@ -7,7 +7,7 @@ philosphies here.
 - [ ] Codeforces Upsolver
 - [ ] Usaco Guide
 - [ ] CodeDigger
-- Reading https://lukipuki.github.io/contest-wiki/get-better.html
+- [ ] Reading https://lukipuki.github.io/contest-wiki/get-better.html
 ## Repos to check out in future
 - TuDSS repo
 - MathProgrammer(Interesting)
