@@ -57,6 +57,7 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
        - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
        - [Focus on understanding and rediscovering the thought process](https://qr.ae/pNsisj)
+       - Time management related answers [Ashish Kedia](https://qr.ae/pNsiAY) and  [ Time Management by Rachit Jain](https://qr.ae/TWtVmr)
 
 
 ### Favourite Articles
