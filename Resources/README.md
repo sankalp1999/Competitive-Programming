@@ -1,10 +1,18 @@
-Approach:
+Approach: 
 Active learning approach with emphasis more on practicing problems and learning concepts on the go.
-Not to hoard and search for resources or procrastinate by reading stuff and be pragmatic.
+Not to hoard and search for resources or procrastinate by reading stuff and be pragmatic. I would not write much about 
+philosphies here. 
 
 ## To check out
 - [ ] Codeforces Upsolver
 - [ ] Usaco Guide
+- [ ] CodeDigger
+## Repos to check out in future
+- TuDSS repo
+- MathProgrammer(Interesting)
+- SahilBansal(more of interview prep)
+- mandilya
+- AshishGupta (Advanced implementations which I won't be needing for a few years :| ) 
 
 ## Important websites
 Google is your best friend here. But still, I will keep some sites here. CP algorithms, codeforces blogs and codechef, hackerearth have almost everything.
