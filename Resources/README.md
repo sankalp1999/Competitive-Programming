@@ -7,8 +7,8 @@ Not to hoard and search for resources or procrastinate by reading stuff and be p
 - [ ] Usaco Guide
 
 ## Important websites
-Google is your best friend here. But still, I will keep some sites here.
-- Awesome CP list, Codechef Prepare page and Sameer Gulati's list. 
+Google is your best friend here. But still, I will keep some sites here. CP algorithms, codeforces blogs and codechef, hackerearth have almost everything.
+- Awesome CP list, Codechef Prepare page and Sameer Gulati's [list](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3). 
 - Usaco [Guide](https://usaco-guide.vercel.app/)
 - CodeChef LearnDSA.
 - CodeMonk
@@ -16,12 +16,14 @@ Google is your best friend here. But still, I will keep some sites here.
    - [Codeforces Practice Tracker](https://chrome.google.com/webstore/detail/codeforces-practice-track/cnahgdhboflcnojgmeehhhfeoojifonm)
    - [Codeforces Upsolving Helper](https://codeforces-upsolving-helper.herokuapp.com/)
    - [Codeforces Visuallizer](https://cfviz.netlify.app/)
-
+- [Most frequently appearing and basic algo list by Ashish Gupta](https://www.quora.com/What-basic-data-structures-and-algorithms-should-one-learn-before-starting-competitive-programming/answer/Ashish-Gupta-211?share=a2eee6ca&srid=ihpN). He has linked the advanced dsa list also.
+- Grateful to 6.006 and 6.046, 6.042j for helping in basic concepts. This anwer by [Mohd Harris](https://qr.ae/pNsisr) had helped a lot.
+- A2OJ ladders and Mustafas sheet(I didnt use)
 
 ### Tackling some misconceptions
    
   **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
-  to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). 
+  to prepare for coding interviews. Basically, for coding interviews, you practice those questions that are more relevant there.... Google, Microsoft only care     about you clearing their [interview](https://qr.ae/pNssEu). Chech Ashish Gupta's opinion's on [this](https://qr.ae/pRF9xY)
   
   **Just [start](https://youtu.be/y7169jEvb-Y?t=42) solving problems!!** Learn required DS and algo on the go. Mostly, it's about raw thinking in the initial stage. You will find a lot of problems      where you don't need to know any algorithm or specific data structure. Occasionally exploring resources is fine but don't go in the search of 
    the perfect all in one resource. (I used to do this quite a few times). I believe it is a subtle form of procrastination.
@@ -54,7 +56,19 @@ Google is your best friend here. But still, I will keep some sites here.
        - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
        - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
+       - [Focus on understanding and rediscovering the thought process](https://qr.ae/pNsisj)
 
-## Note
-There is some non-DS lab material in the repository. 
+
+### Favourite Articles
+- [Learning Algorithms in general](https://qr.ae/TWxJMJ) This is similar to active learning approach
+- [Improving at DSA by AbdulRehman Handy](https://qr.ae/pNsinZ)
+- [How did you improve by Sameer Gulati](https://www.quora.com/What-made-you-good-at-competitive-programming/answer/Sameer-Gulati-3)
+- [Approach by Ashish Kedia](https://qr.ae/pNsird)
+- [Beginner mistakes by Sibashish Ghosh](https://qr.ae/pNKM2Y)
+- [Learning on need basis approach by Joshua Pan](https://qr.ae/pNKM2r)
+- [Benefits of CP by Ana Echavaria](https://qr.ae/pNsinM)
+- [ Another point of view](https://qr.ae/pNsinf)
+- [Focus on understanding and rediscovering the thought process](https://qr.ae/pNsisj)
+- [Math topic summary by Raziman TV](https://qr.ae/pNsiYb)
+
 
