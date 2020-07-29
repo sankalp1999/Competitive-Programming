@@ -61,6 +61,8 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
 
 
 ### Favourite Articles
+- [CP is hard and deliberate practice required](https://qr.ae/pNsiYs) Keep practicing and don't give up. Spend more time thinking. Keep pursuing. There will be phases when you don't do CP  but you can always restart. Struggles in CP and be passionate about it in long term(forever) practice to improve and not just from career standpoint
+- [Deliberate practice for software developers](https://www.redgreencode.com/deliberate-practice-for-software-developers/) repeating
 - [ Time Management by Rachit Jain](https://qr.ae/TWtVmr) It helped a lot in college.
 - [Learning Algorithms in general](https://qr.ae/TWxJMJ) This is similar to active learning approach
 - [Improving at DSA by AbdulRehman Handy](https://qr.ae/pNsinZ)
