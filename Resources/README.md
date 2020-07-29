@@ -60,6 +60,7 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
 
 
 ### Favourite Articles
+- [ Time Management by Rachit Jain](https://qr.ae/TWtVmr) It helped a lot in college.
 - [Learning Algorithms in general](https://qr.ae/TWxJMJ) This is similar to active learning approach
 - [Improving at DSA by AbdulRehman Handy](https://qr.ae/pNsinZ)
 - [How did you improve by Sameer Gulati](https://www.quora.com/What-made-you-good-at-competitive-programming/answer/Sameer-Gulati-3)
