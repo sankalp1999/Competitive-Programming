@@ -9,8 +9,7 @@ philosphies here.
 - [ ] CodeDigger
 - [ ] Reading https://lukipuki.github.io/contest-wiki/get-better.html
 ## Repos to check out in future
-- TuDSS repo
-- MathProgrammer(Interesting)
+- [MathProgrammer](https://github.com/MathProgrammer)(Interesting)
 - SahilBansal(more of interview prep)
 - mandilya
 - AshishGupta (Advanced implementations which I won't be needing for a few years :| ) 
