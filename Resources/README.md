@@ -19,7 +19,7 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
 - Awesome CP list, Codechef Prepare page and Sameer Gulati's [list](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3). 
 - Usaco [Guide](https://usaco-guide.vercel.app/)
 - CodeChef LearnDSA.
-- CodeMonk
+- CodeMonk and [this](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) HackerEarth guide written by an IIT Kanpur Grad
 - [CF tools](https://codeforces.com/blog/entry/63040)
    - [Codeforces Practice Tracker](https://chrome.google.com/webstore/detail/codeforces-practice-track/cnahgdhboflcnojgmeehhhfeoojifonm)
    - [Codeforces Upsolving Helper](https://codeforces-upsolving-helper.herokuapp.com/)
