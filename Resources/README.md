@@ -1,6 +1,21 @@
+Approach:
+Active learning approach with emphasis more on practicing problems and learning concepts on the go.
+Not to hoard and search for resources or procrastinate by reading stuff and be pragmatic.
+
 ## To check out
 - [ ] Codeforces Upsolver
 - [ ] Usaco Guide
+
+## Important websites
+Google is your best friend here. But still, I will keep some sites here.
+
+- Usaco [Guide](https://usaco-guide.vercel.app/)
+- CodeChef LearnDSA.
+- CodeMonk
+- [CF tools](https://codeforces.com/blog/entry/63040)
+   - [Codeforces Practice Tracker](https://chrome.google.com/webstore/detail/codeforces-practice-track/cnahgdhboflcnojgmeehhhfeoojifonm)
+   - [Codeforces Upsolving Helper](https://codeforces-upsolving-helper.herokuapp.com/)
+   - [Codeforces Visuallizer](https://cfviz.netlify.app/)
 
 
 ### Tackling some misconceptions
