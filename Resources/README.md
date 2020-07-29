@@ -1,3 +1,8 @@
+## To check out
+- [ ] Codeforces Upsolver
+- [ ] Usaco Guide
+
+
 ### Tackling some misconceptions
    
   **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
