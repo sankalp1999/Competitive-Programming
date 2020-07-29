@@ -71,7 +71,6 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
 
 ### Favourite Articles
 - [Teach yourself programming in 10 years](http://norvig.com/21-days.html)
--
 - [CP is hard and deliberate practice required](https://qr.ae/pNsiYs) Keep practicing and don't give up. Spend more time thinking. Keep pursuing. There will be phases when you don't do CP  but you can always restart. Struggles in CP and be passionate about it in long term(forever) practice to improve and not just from career standpoint
 - [Deliberate practice for software developers](https://www.redgreencode.com/deliberate-practice-for-software-developers/) repeating
 - [ Time Management by Rachit Jain](https://qr.ae/TWtVmr) It helped a lot in college.
