@@ -8,7 +8,7 @@ Not to hoard and search for resources or procrastinate by reading stuff and be p
 
 ## Important websites
 Google is your best friend here. But still, I will keep some sites here.
-
+- Awesome CP list, Codechef Prepare page and Sameer Gulati's list. 
 - Usaco [Guide](https://usaco-guide.vercel.app/)
 - CodeChef LearnDSA.
 - CodeMonk
