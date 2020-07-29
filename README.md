@@ -20,5 +20,8 @@ some information about approaching CP**
 
 ## What CP is all about
 Check out this brilliant [answer](https://qr.ae/TjA0uu) by Manashi Sarkar if you want to know about Competitive Programming
+
+## Youtube Channels related to CP
+Check [here](https://github.com/sankalp1999/Competitive-Programming/blob/master/Resources/YoutubeChannels.md)
  
 
