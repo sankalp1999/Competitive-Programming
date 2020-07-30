@@ -1,6 +1,6 @@
 **This is my personal space to keep track of stuff other than Notion. Currently, not doing CP that much maintaining to-dos**
 
-**Record important links/stuff if you found them useful atleast once. Don't explore to store stuff. That is hoarding.**
+Note for me: **Record important links/stuff if you found them useful atleast once. Don't explore to store stuff. That is hoarding.**
 Approach: 
 
 Active learning approach with emphasis more on practicing problems and learning concepts on the go.
