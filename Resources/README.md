@@ -1,5 +1,11 @@
 **This is my personal space to keep track of stuff other than Notion. Currently, not doing CP that much maintaining to-dos**
 
+
+## Some reflections on problem solving
+- Concentrate on the thinking process. Don't change approaches abruptly. Think a bit longer what else is missing or what can be added.
+- Spend more time on thinking and try to reach the solution without referring to solution quickly.
+- Don't get disheartened by failures/off by one errors but make sure that you spend enough time on some approach you did.
+
 Note for me: **Record important links/stuff if you found them useful atleast once. Don't explore to store stuff. That is hoarding.**
 Approach: 
 
