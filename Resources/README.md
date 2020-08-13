@@ -1,4 +1,5 @@
 **This is my personal space to keep track of stuff other than Notion. Currently, not doing CP that much maintaining to-dos**
+** Refer below reflections section for cool stuff. **
 
 
 ## Some reflections on problem solving
