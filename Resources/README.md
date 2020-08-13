@@ -30,6 +30,7 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
 - Awesome CP list, Codechef Prepare page and Sameer Gulati's [list](https://www.quora.com/What-is-a-list-of-data-structures-that-a-competitive-programmer-must-know/answer/Sameer-Gulati-3). 
 - Usaco [Guide](https://usaco-guide.vercel.app/)
 - CodeChef LearnDSA.
+- [Awesome CP](https://github.com/lnishan/awesome-competitive-programming)
 - CodeMonk and [this](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/) HackerEarth guide written by an IIT Kanpur Grad
 - [CF tools](https://codeforces.com/blog/entry/63040)
    - [Codeforces Practice Tracker](https://chrome.google.com/webstore/detail/codeforces-practice-track/cnahgdhboflcnojgmeehhhfeoojifonm)
@@ -37,8 +38,16 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
    - [Codeforces Visuallizer](https://cfviz.netlify.app/)
 - [Most frequently appearing and basic algo list by Ashish Gupta](https://www.quora.com/What-basic-data-structures-and-algorithms-should-one-learn-before-starting-competitive-programming/answer/Ashish-Gupta-211?share=a2eee6ca&srid=ihpN). He has linked the advanced dsa list also.
 - Grateful to 6.006 and 6.046, 6.042j for helping in basic concepts. This anwer by [Mohd Harris](https://qr.ae/pNsisr) had helped a lot.
-- A2OJ ladders and Mustafas sheet(I didnt use)
+- A2OJ ladders and Mustafas sheet
 - [Art of problem solving](https://artofproblemsolving.com/) Not for CP but good website for combinatorics(helped in college course) 
+
+
+## Platform names
+- Codeforces, Codechef, Atcoder, Topcoder(UI sucks), HackerRank, HackerEarth(difficulty labelling sucks)
+- CSAcademy dead now.
+- SPOJ - does not hold contests
+- Problemsets: A2OJ, CSES, CF gyms and problemset, progvar.fun
+
 ### Tackling some misconceptions
    
   **You don't need to do Competitive programming to clear coding rounds/interviews** but those who are good at CP or even have some experience find it easier
@@ -77,7 +86,7 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
        - [Focus on understanding and rediscovering the thought process](https://qr.ae/pNsisj)
        - Time management related answers [Ashish Kedia](https://qr.ae/pNsiAY) and  [ Time Management by Rachit Jain](https://qr.ae/TWtVmr)
-
+     
 
 ### Favourite Articles
 - [Teach yourself programming in 10 years](http://norvig.com/21-days.html)
