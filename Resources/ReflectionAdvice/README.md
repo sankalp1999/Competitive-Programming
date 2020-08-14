@@ -17,7 +17,8 @@ All that said, I think that competitive programming is unique in how it mixes ta
 
 
 
-**I think i should think longer. 10 mins is too less to spend on a problem.(I am not a genius lmao)
+**I think i should think longer. 10 mins is too less to spend on a problem.(I am not a genius lmao). I will will
+follow the think until you get ideas strategy or think for 30 mins. IF no idea/way, see solution. Not the most satisfying experience though.**
 
 ```The idea below should help CM or M (maybe expert too) level participants reach IM or GM.
 
