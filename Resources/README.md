@@ -89,6 +89,7 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
      
 
 ### Favourite Articles
+- [ A way to practice From Rating 1000 to 2400+] (https://codeforces.com/blog/entry/66909) - Good one.
 - [Teach yourself programming in 10 years](http://norvig.com/21-days.html)
 - [CP is hard and deliberate practice required](https://qr.ae/pNsiYs) Keep practicing and don't give up. Spend more time thinking. Keep pursuing. There will be phases when you don't do CP  but you can always restart. Struggles in CP and be passionate about it in long term(forever) practice to improve and not just from career standpoint
 - [Deliberate practice for software developers](https://www.redgreencode.com/deliberate-practice-for-software-developers/) repeating
