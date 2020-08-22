@@ -43,7 +43,8 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
 
 
 ## Platform names
-- Codeforces, Codechef, Atcoder, Topcoder(UI sucks), HackerRank, HackerEarth(difficulty labelling sucks)
+- My favourite and most recommended by top CP'ers like Errichto- Codeforces, Codechef, Atcoder
+- Topcoder(UI sucks), HackerRank, HackerEarth(difficulty labelling sucks)
 - CSAcademy dead now.
 - SPOJ - does not hold contests
 - Problemsets: A2OJ, CSES, CF gyms and problemset, progvar.fun
