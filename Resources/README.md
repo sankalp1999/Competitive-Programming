@@ -4,6 +4,7 @@
 
 ## Some reflections on problem solving
 - Concentrate on the thinking process. Don't change approaches abruptly. Think a bit longer what else is missing or what can be added.
+- **Try figuring out the algorithm/writing it and then implementing when fully sure. Try to get AC with minimum number of submissions.**
 - Spend more time on thinking and try to reach the solution without referring to solution quickly.
 - Don't get disheartened by failures/off by one errors but make sure that you spend enough time on some approach you did.
 
