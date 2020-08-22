@@ -3,6 +3,8 @@
 This repository contains solutions of some of the problems I have solved on different platforms across the web majorly
 Codechef, Codeforces. 
 
+You can refer the resources section for some useful information.
+
 **Currently, I am in the process of updating this repository and making major changes.**. **Check out my 3rd sem DS [repository](https://github.com/sankalp1999/3rdSem-Data-Structures-Lab#some-thoughts---cp-related) README to get
 some information about approaching CP**
  
