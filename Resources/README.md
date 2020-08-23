@@ -25,6 +25,7 @@ philosphies here.
 - SahilBansal(more of interview prep)
 - mandilya
 - AshishGupta (Advanced implementations which I won't be needing for a few years :| ) 
+- https://github.com/AnneLivia/Competitive-Programming - Good explanation for revision
 
 ## Important websites
 Google is your best friend here. But still, I will keep some sites here. CP algorithms, codeforces blogs and codechef, hackerearth have almost everything.
