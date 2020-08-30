@@ -20,6 +20,12 @@ philosphies here.
 - [ ] Usaco Guide
 - [ ] CodeDigger
 - [ ] Reading https://lukipuki.github.io/contest-wiki/get-better.html
+
+## Blogs to check out
+- [ ] https://codeforces.com/blog/divyamsingal01 (cses maths)
+- [ ] CSES dp related blogs
+
+
 ## Repos to check out in future
 - [MathProgrammer](https://github.com/MathProgrammer)(Interesting)
 - SahilBansal(more of interview prep)
