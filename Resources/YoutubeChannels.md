@@ -10,7 +10,13 @@ The handles are the creator's Codeforces user handles.
 [Errichto's channel](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg) by [user:Errichto,2020-04-22]. Tutorials, lectures, advice and contest streams.
 One of the best currently.
 
+[Second Thread](https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g) by David Heinermer(pardon spelling) As of sep2020, this channel has become really good
+. The host is a red coder on CF. He explains solutions to almost all the div2 and div2 contests he participates in and makes videos on Med-Advanced 
+CP related topics. Really good quality videos. 
+
 [Code NCode](https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ) by [user:kazama460,2020-04-22] Tutorials for a lot of topics in CP. One of the best channels.
+
+[Colin Galen](https://www.youtube.com/c/ColinGalen/featured) Explains the solutions of CF, Atcoder after the contests. Good channel.
 
 [William Lin's Channel](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q) by [user:tmwilliamlin168,2020-04-22] He makes mostly guidance and him solving contest problems. He hasn't made any tutorial yet. Duh.
 
@@ -44,7 +50,7 @@ One of the best currently.
 
 [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ) by [user:rachitiitr,2020-04-22] 
 
-[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw) 
+[Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw) Few good videos on advanced topics
 
 **Emerging channels**
 
