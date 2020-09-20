@@ -18,11 +18,11 @@ CP related topics. Really good quality videos.
 
 [Colin Galen](https://www.youtube.com/c/ColinGalen/featured) Explains the solutions of CF, Atcoder after the contests. Good channel.
 
+[TakeUForward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig) by [user:striver_79,2020-04-22] &mdash; Great channel with tutorials on DP, Graphs for beginners. Currently, focus is on Coding interviews.
+
 [William Lin's Channel](https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q) by [user:tmwilliamlin168,2020-04-22] He makes mostly guidance and him solving contest problems. He hasn't made any tutorial yet. Duh.
 
 [Algorithms Live](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w) This channel is not for beginners.
-
-[TakeUForward](https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig) by [user:striver_79,2020-04-22] &mdash; new channel
 
 [Vplanet](https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg) by [user:Updown,2020-04-22] Not active. Has good videos on DP which are on my to-do list.
 
