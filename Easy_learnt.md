@@ -26,5 +26,14 @@ Just iterate through the array and check if three consecutive elements.
    If i remove 6, then still 6 is there. No decrease in difference.
    But if i remove 1, 6 6 
                       6 6 gives 0.
+4. 30A - Accounting 
+A * X ^ n = B
+Given a, n and B, find X.
+I didn't work out the maths properly. Also, I didn't consider the 0 corner case
+and probably underestimated the question. But it was rated 1400.
+- In future, work out the cases and think carefully
+- Work out the bounds of numbers
+- Do work it out on the paper
+- Try not to take thinking shortcuts and **take breaks**
                       
    
