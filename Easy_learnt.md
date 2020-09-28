@@ -1,4 +1,8 @@
 
+-Don't be impatient or in a hurry. Try to avoid thinking shortcuts and work out the testcases.
+In the same line, try to make some break cases if not really sure.
+- Be calm like SecondThread guy.
+
 Concepts And mistakes 
 1. 1366B Shuffle
 In this question, it felt like covering intersection of sets like something keeps flowing between sets that intersect and one of 
