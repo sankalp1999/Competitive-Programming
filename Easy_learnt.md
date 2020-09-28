@@ -35,5 +35,8 @@ and probably underestimated the question. But it was rated 1400.
 - Work out the bounds of numbers
 - Do work it out on the paper
 - Try not to take thinking shortcuts and **take breaks**
-                      
+
+5. 1480B Universal Solution 1400 rated
+- Got a bit **overconfident**. **Be humble and solve the question logically**
+- Although, got the logic almost in the second attemp after a WA                      
    
