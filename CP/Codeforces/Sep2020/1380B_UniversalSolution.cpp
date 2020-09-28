@@ -1,6 +1,19 @@
 #include <bits/stdc++.h>
 using namespace std;
 
+/*
+Here, problem string is given consisting of 'R', 'P' and 'S'
+Let si be string's ith char and ci be your ith choice.
+Now, we have to make such choices so that the average win is maximized.
+
+Observation:
+Each c1 gets compared to si once for 0 < i < n. Thus, we would like to c1  to beat si
+maximal number of times. So, we choose the most frequent character in the string.
+And we output the opposite of that string.
+
+Also, all the other ci are also compared to si. So, c1 is the optimal answer.
+*/
+
 typedef long long int lli;
 
 int main() {
