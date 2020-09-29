@@ -42,5 +42,8 @@ and probably underestimated the question. But it was rated 1400.
 
 5. 1480B Universal Solution 1400 rated
 - Got a bit **overconfident**. **Be humble and solve the question logically**
-- Although, got the logic almost in the second attemp after a WA                      
+- Although, got the logic almost in the second attemp after a WA                
+
+6. 124B Notice the small contraints
+This is the first time I used the next_permutation. Good question.
    
