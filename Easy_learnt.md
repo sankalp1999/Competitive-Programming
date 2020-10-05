@@ -44,3 +44,14 @@ and probably underestimated the question. But it was rated 1400.
 - Got a bit **overconfident**. **Be humble and solve the question logically**
 - Although, got the logic almost in the second attemp after a WA                      
    
+6. 546C Soldier and Cards
+- I did this problem by simulating use Deque(although, queue would have done the job). 
+Initially N cards are there. They can be distributed in NCk1 ways and remaining cards to get player 2.
+Now, the pile 1 has k1! states and pile 2 k2! states possible.
+Thus, total states NCK * k1! * k2! overall.
+n < 10. 10C5 gives the larger result. So, for this case, the above gives 1e6.
+So, deciding if draw is there can be done before 10^6 so one won't get TLE.
+So, one can easily check using set<queue<int>>
+
+- I had solved this thinking that roughly ~ 100 steps should be enough for state to repeat.
+But I didn't do that math. So, i just did till 1e7. Got a bit lucky.
