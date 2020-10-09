@@ -29,3 +29,11 @@ Similar problem i solved abc166_E problem. Same maths relation using mapping kin
    d1[i + 1] = max(d1[i], d2[i] + a[i])
    d2[i + 1] = max(d2[i], d1[i]) - a[i])
    
+### October 2020
+1. https://codeforces.com/contest/1348/problem/B
+This problem is really good constructive problem. Here, we literally didn't have to insert elements. 
+For each subarray have to same sum, it should contain exactly k unique numbers. If the number of unique elements is more than k,
+then it was not possible at all. 
+But if it's it less than k, we make a list of those unique numbers and append 1 till it becomes same.
+We repeat those n times. That way, we are in the constraint of 1e4 also.
+   
