@@ -36,4 +36,8 @@ For each subarray have to same sum, it should contain exactly k unique numbers. 
 then it was not possible at all. 
 But if it's it less than k, we make a list of those unique numbers and append 1 till it becomes same.
 We repeat those n times. That way, we are in the constraint of 1e4 also.
+
+2. https://codeforces.com/contest/1436/problem/C Binary  Search
+  **A really good problem where the knowledge of binary search and maths tested.
+  **
    
