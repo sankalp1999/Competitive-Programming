@@ -39,5 +39,5 @@ We repeat those n times. That way, we are in the constraint of 1e4 also.
 
 2. https://codeforces.com/contest/1436/problem/C Binary  Search
   **A really good problem where the knowledge of binary search and maths tested.
-  **
+  ** [Solution Link](https://github.com/sankalp1999/Competitive-Programming/blob/master/CP/Codeforces/Oct2020/1436C_Binary_Search.cpp)
    
