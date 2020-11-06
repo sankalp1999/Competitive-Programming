@@ -40,4 +40,8 @@ We repeat those n times. That way, we are in the constraint of 1e4 also.
 2. https://codeforces.com/contest/1436/problem/C Binary  Search
   **A really good problem where the knowledge of binary search and maths tested.
   ** [Solution Link](https://github.com/sankalp1999/Competitive-Programming/blob/master/CP/Codeforces/Oct2020/1436C_Binary_Search.cpp)
-   
+ 
+### November 2020
+In general, problems above 1300 (1500+ ) are good and difficult especially the constructive ones.
+1. 1416-A K-amazing number. -->Find the max gaps. This helps to identify the candidate. 
+Also, whatever is good for K, it can be answer for > K also until unless a smaller candidate is found.
