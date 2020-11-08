@@ -45,3 +45,17 @@ We repeat those n times. That way, we are in the constraint of 1e4 also.
 In general, problems above 1300 (1500+ ) are good and difficult especially the constructive ones.
 1. 1416-A K-amazing number. -->Find the max gaps. This helps to identify the candidate. 
 Also, whatever is good for K, it can be answer for > K also until unless a smaller candidate is found.
+
+2. Chef is throwing just random words (SOS) - OR of sum of all subsets. Here, we use the fact that if a bit is set in any of the elements,
+it will be definitely set in the final answer. But, if u choose two elements with  i - 1 th bit set, then u can make i th bit set
+by adding these two numbers.  By this observation, bits[i] += bits[i-1]/2.  Then, make the final ans by mask.
+OR in this problem, only the right i-1 bits affect the ith bit so we can keep taking prefix sum, OR it with our res variable
+All the bits which could be set in the final answer by adding will get set.
+```
+let ele be the input
+res = res | ele
+prefix_sum += ele;
+res = res | prefix_sum
+cout << res << endl;
+```
+
