@@ -59,3 +59,9 @@ res = res | prefix_sum
 cout << res << endl;
 ```
 
+3. Manasa and Stones https://www.hackerrank.com/challenges/manasa-and-stones/editorial
+It's an easy problem. I initially did just a BFS. But notice, that we just want the last iteration.
+All the numbers will be between (n - 1 ) * a and (N - 1 ) * b. (a < b)
+(N -2 ) * a + b > (N - 1) * A because b > a
+Just run a loop
+
