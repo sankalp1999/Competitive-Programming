@@ -92,7 +92,7 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
        - [What CP is all about](https://qr.ae/TjA0uu) An answer which beautifully describes what CP is all about.
        - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
        - [How to get start with CP - by Sameer Gulati](https://www.youtube.com/watch?v=qG3tT_CaA68)  Check his other videos as well.
-       - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
+       - [Ashish Gupta's great answer](https://qr.ae/pNeKoQ) Check his other answers as well.
       
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
        - [Focus on understanding and rediscovering the thought process](https://qr.ae/pNsisj)
