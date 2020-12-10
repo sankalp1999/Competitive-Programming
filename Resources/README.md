@@ -90,9 +90,10 @@ Google is your best friend here. But still, I will keep some sites here. CP algo
        - [Errichto's Guide](https://github.com/Errichto/youtube/wiki/How-to-practice%3F?fbclid=IwAR3i4-RUmoN3VM2oY-tP3WC60maN3V7hd2R5vTeS7Xs7I1LXNdb5_VjTnUA) Errichto is a red coder on Codeforces and he has a youtube channel with quality content.
        - [Errichto's How to Become Red Coder](https://www.youtube.com/watch?v=y7169jEvb-Y)
        - [What CP is all about](https://qr.ae/TjA0uu) An answer which beautifully describes what CP is all about.
+       - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
        - [How to get start with CP - by Sameer Gulati](https://www.youtube.com/watch?v=qG3tT_CaA68)  Check his other videos as well.
        - [Ashish Gupta's great answer](https://qr.ae/pNydnl) Check his other answers as well.
-       - [Rough Roadmap to get idea about CP](https://www.youtube.com/watch?v=zZOQVLll9u4&t=0s)
+      
   - I would like to write a blog on CP (to save time for others) when I get good obviously xD. Currently, I am busy with other programming related work.
        - [Focus on understanding and rediscovering the thought process](https://qr.ae/pNsisj)
        - Time management related answers [Ashish Kedia](https://qr.ae/pNsiAY) and  [ Time Management by Rachit Jain](https://qr.ae/TWtVmr)
