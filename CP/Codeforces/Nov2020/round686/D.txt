@@ -1,0 +1,18 @@
+We cannot have more numbers
+than the max occuring exponent.
+What we can do is place the exponent.
+Then place the second most occuring exponent 
+from the right end.
+
+This way, each later number will be divisible 
+by previous numbers since they all have atleast 
+one factor in common.
+
+2 2 2 2 2 2 
+    3 3 3 3 
+        5 5
+          7
+Ascending order is not required so all we need 
+is to place the most occuring once.
+
+then keep multiplying from end etc.
